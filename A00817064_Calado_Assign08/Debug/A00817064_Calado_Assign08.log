@@ -1,0 +1,13 @@
+﻿  Complex.cpp
+c:\users\abraxas\desktop\a00817064_calado_assign08\a00817064_calado_assign08\complex.h(27): warning C4227: anachronism used: qualifiers on reference are ignored
+c:\users\abraxas\desktop\a00817064_calado_assign08\a00817064_calado_assign08\complex.h(28): warning C4227: anachronism used: qualifiers on reference are ignored
+c:\users\abraxas\desktop\a00817064_calado_assign08\a00817064_calado_assign08\complex.cpp(60): warning C4227: anachronism used: qualifiers on reference are ignored
+c:\users\abraxas\desktop\a00817064_calado_assign08\a00817064_calado_assign08\complex.cpp(69): warning C4227: anachronism used: qualifiers on reference are ignored
+  Generating Code...
+  Compiling...
+  MainProg.cpp
+c:\users\abraxas\desktop\a00817064_calado_assign08\a00817064_calado_assign08\complex.h(27): warning C4227: anachronism used: qualifiers on reference are ignored
+c:\users\abraxas\desktop\a00817064_calado_assign08\a00817064_calado_assign08\complex.h(28): warning C4227: anachronism used: qualifiers on reference are ignored
+  Generating Code...
+  A00817064_Calado_Assign08.vcxproj -> C:\Users\Abraxas\Desktop\A00817064_Calado_Assign08\Debug\A00817064_Calado_Assign08.exe
+  A00817064_Calado_Assign08.vcxproj -> C:\Users\Abraxas\Desktop\A00817064_Calado_Assign08\Debug\A00817064_Calado_Assign08.pdb (Partial PDB)
